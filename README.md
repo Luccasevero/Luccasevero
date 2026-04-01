@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Lucca Severo
 
 **`Desenvolvedora FullStack`**
 
