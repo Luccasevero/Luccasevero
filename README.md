@@ -7,7 +7,7 @@
     <a href="mailto:lucca.severo@hotmail.com">
         <img 
             alt="lucca.severo.@hotmail.com" 
-            title="Meu e-mail" 
+            title="lucca.severo.@hotmail.com" 
             src="https://custom-icon-badges.demolab.com/github/stars/Luccasevero?color=%23E05D44&label=E-amil&logo=email&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
